@@ -4,7 +4,7 @@ const help = (prefix) => {
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : caio
+  ❏ Criador : ✞︎卐𝑪𝑨𝑰𝑶𝑴𝑬𝑲𝑬𝑹卐✞︎
   ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
 
 ◪ *SOBRE*
