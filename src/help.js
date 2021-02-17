@@ -1,10 +1,10 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+「 *BOT DO CAIO PAU NO CU D QM DUVIDA KKKKK* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
+  ❏ Criador : caio
   ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
 
 ◪ *SOBRE*
@@ -64,12 +64,6 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}quotes
   ├─ ❏ ${prefix}quotes2
   └─ ❏ ${prefix}artinama
-◪ *KERANG AJAIB*
-  │
-  ├─ ❏ ${prefix}apakah
-  ├─ ❏ ${prefix}kapankah
-  ├─ ❏ ${prefix}rate
-  └─ ❏ ${prefix}bisakah
 ◪ *DOWNLOADER*
   │
   ├─ ❏ ${prefix}images
